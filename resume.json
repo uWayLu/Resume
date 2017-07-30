@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "Yu-Wei Lu",
+        "url": "https://www.linkedin.com/in/webb-lu/"
+      },        
+      {
         "network": "Github",
         "username": "uwaylu",
         "url": "https://github.com/uWayLu"
