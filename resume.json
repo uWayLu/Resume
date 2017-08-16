@@ -6,7 +6,7 @@
     "email": "u.master.o.twn@gmail.com",
     "phone": "",
     "website": "https://uwaylu.github.io",
-    "summary": "<p>高雄人，碼農，追求平凡的平凡人。</p><p>一名 2016 出產的新鮮 PHP 碼農，喜歡 Coding 帶來的 DIY 滿足感。</p><p>大學時研究過 PHP 爬蟲，獲取手機論壇的討論文章；<br>碩班期間以 matlab 協作模擬 LTE-A 網路的資源分配；</p><p>2016 年 8 月時任職於<a href='//www.syf.com.tw' target='_blank'>新裕豐文化事業</a>，從後端的 PHP 包到前端的 Javascript；隨著時間推移並摸索了各種基礎知識如 ajax, seo, api 並接觸些新技術後，越期盼能夠團隊式的開發並進行討論、互相砥礪，工作環境中能夠在同領域互相交流。</p><p>閒暇時，2017 上半年目標是「建立個人部落格，分享 Evernote 筆記」，期間在 OpenShift 上架設了 wordpress、摸索了 Laravel, Vuejs 與 axios（基於 promise 的 ajax libs）等各種新知，最後情定 github.io 與 jekyll 靜態部落格生成器。AFK 時喜歡與好友喝飲料談天，或騎單車四處走走；17 年 2 月完成了高雄-墾丁百里騎乘，7 月完成了左營單車挑戰百里。</p><p>平常習慣用 Evernote 做筆記與整理，透過官方 UI 能夠快速地、草稿地隨手記；或者搭配編輯器以 markdown 主題式的做整理。為了強化自我時間管理，6 月時接觸了 Getting Things Done (GTD) 的概念並搭配 Google Keep 做行程安排。</p><p>致力於讓自己的技能更加全面與深入，提高自己的被利用價值。</p>",
+    "summary": "<p>高雄人，碼農，追求平凡的平凡人。</p><p>一名 2016 出產的新鮮 PHP 碼農，喜歡 Coding 帶來的 DIY 滿足感。</p><p>大學時研究過 PHP 爬蟲，獲取手機論壇的討論文章；曾與同儕參加資策會主辦的校園資安競賽活動，雖然幾乎沒什麼貢獻，對我來說是一次寶貴的經驗；資安很有趣；<br>碩班期間以 matlab 協作模擬 LTE-A 網路的資源分配；</p><p>2016 年 8 月時任職於<a href='//www.syf.com.tw' target='_blank'>新裕豐文化事業</a>，從後端的 PHP 包到前端的 Javascript；隨著時間推移並摸索了各種基礎知識如 ajax, seo, api 並接觸些新技術後，越期盼能夠團隊式的開發並進行討論、互相砥礪，工作環境中能夠在同領域互相交流。</p><p>閒暇時，2017 上半年目標是「建立個人部落格，分享 Evernote 筆記」，期間在 OpenShift 上架設了 wordpress、摸索了 Laravel, Vuejs 與 axios（基於 promise 的 ajax libs）等各種新知，最後情定 github.io 與 jekyll 靜態部落格生成器。AFK 時喜歡與好友喝飲料談天，或騎單車四處走走；17 年 2 月完成了高雄-墾丁百里騎乘，7 月完成了左營單車挑戰百里。</p><p>平常習慣用 Evernote 做筆記與整理，透過官方 UI 能夠快速地、草稿地隨手記；或者搭配編輯器以 markdown 主題式的做整理。為了強化自我時間管理，6 月時接觸了 Getting Things Done (GTD) 的概念並搭配 Google Keep 做行程安排。</p><p>致力於讓自己的技能更加全面與深入，提高自己的被利用價值。</p>",
     "location": {
       "address": "新興區南華橫一路 17 之 1 號",
       "postalCode": "80053",
@@ -36,7 +36,7 @@
         "以 pjax 實現良好體驗的搜尋功能",
         "<a href='http://www.syf.com.tw/mass/便條紙-便利貼' target='_blank'>最新商品</a>全站架構與實現（後台 Excel 快速上架，拖曳上傳商品圖片，自動生成 xml 格式 sitemap，採用中文網址等）",
         "後台商品維護相關功能：批次指定類目跟隨特定商品牌價、匯出商品資料為 Excel 檔案",
-        "於測試機架設 Gogs 提供公司做版本控制，結果只有我在用ˊ_>ˋ"
+        "於測試機架設 Gogs 提供公司做版本控制，嘗試推廣版本控制"
       ]
     }
   ],
@@ -167,7 +167,8 @@
       "keywords": [
         "Git",
         "Linux",
-        "Markdown"
+        "Markdown",
+        "Gitbook"
       ]
     }
   ],
