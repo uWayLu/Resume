@@ -5,11 +5,9 @@
     "picture": "https://avatars1.githubusercontent.com/u/21689326?v=4&s=460",
     "email": "u.master.o.twn@gmail.com",
     "phone": "",
-    "website": "https://uwaylu.github.io",
-    "summary": "<p>高雄人，碼農，追求平凡的平凡人。</p><p>一名 2016 出產的新鮮 PHP 碼農，喜歡 Coding 帶來的 DIY 滿足感。</p><p>大學時研究過 PHP 爬蟲，獲取手機論壇的討論文章；曾與同儕參加資策會主辦的校園資安競賽活動，雖然幾乎沒什麼貢獻，對我來說是一次寶貴的經驗；資安很有趣；<br>碩班期間以 matlab 協作模擬 LTE-A 網路的資源分配；</p><p>2016 年 8 月時任職於<a href='//www.syf.com.tw' target='_blank'>新裕豐文化事業</a>，從後端的 PHP 包到前端的 Javascript；隨著時間推移並摸索了各種基礎知識如 ajax, seo, api 並接觸些新技術後，越期盼能夠團隊式的開發並進行討論、互相砥礪，工作環境中能夠在同領域互相交流。</p><p>閒暇時，2017 上半年目標是「建立個人部落格，分享 Evernote 筆記」，期間在 OpenShift 上架設了 wordpress、摸索了 Laravel, Vuejs 與 axios（基於 promise 的 ajax libs）等各種新知，最後情定 github.io 與 jekyll 靜態部落格生成器。AFK 時喜歡與好友喝飲料談天，或騎單車四處走走；17 年 2 月完成了高雄-墾丁百里騎乘，7 月完成了左營單車挑戰百里。</p><p>平常習慣用 Evernote 做筆記與整理，透過官方 UI 能夠快速地、草稿地隨手記；或者搭配編輯器以 markdown 主題式的做整理。為了強化自我時間管理，6 月時接觸了 Getting Things Done (GTD) 的概念並搭配 Google Keep 做行程安排。</p><p>致力於讓自己的技能更加全面與深入，提高自己的被利用價值。</p>",
+    "website": "https://uwaylu.github.io/blog",
+    "summary": "高雄人，碼農。<br><br>大學時研究過 PHP 爬蟲，獲取手機論壇的討論文章；<br>碩班期間以 matlab 協作模擬 LTE-A 網路的資源分配；<br><br>2016 年 8 月時任職於新裕豐文化事業，工作範圍涉及後端的 PHP 到前端的 Javascript；<br>隨著時間推移接觸了各種技術後，越期盼能夠團隊式的開發並進行討論、互相砥礪，<br>工作環境中能夠在同領域互相交流。<br><br>閒暇時，2017 上半年目標是「建立個人部落格，分享 Evernote 筆記」，<br>期間在 OpenShift 上架設了 wordpress、<br>摸索了 Laravel, Vuejs 與 axios（基於 promise 的 ajax libs）等各種新知，<br>最後情定 github.io 與 jekyll 靜態部落格生成器。<br><br>AFK 時喜歡與好友喝飲料談天，或騎單車四處走走；<br>17 年 2 月完成了高雄-墾丁百里騎乘，7 月完成了左營單車挑戰百里。<br><br>18-19 年習慣於舒適圈，慶幸部落格還是在 20 年基於 vuepress 上到 github。<br>半年目標是慢慢整理 Notion 上的筆記，發布到部落格。",
     "location": {
-      "address": "新興區南華橫一路 17 之 1 號",
-      "postalCode": "80053",
       "city": "Kaohsiung",
       "countryCode": "Taiwan",
       "region": ""
@@ -19,7 +17,12 @@
         "network": "LinkedIn",
         "username": "Yu-Wei Lu",
         "url": "https://www.linkedin.com/in/webb-lu/"
-      },        
+      },
+      {
+        "network": "Blog",
+        "username": "uwaylu",
+        "url": "https://uwaylu.github.io/blog"
+      },
       {
         "network": "Github",
         "username": "uwaylu",
@@ -29,23 +32,45 @@
   },
   "work": [
     {
+      "company": "聚泰網路科技",
+      "position": "PHP Programmer",
+      "website": "https://jutainet.com",
+      "startDate": "2017-09-01",
+      "endDate": "2020-08-31",
+      "summary": "配合專案管理者協作完成需求，並撰寫文件",
+      "highlights": [
+        "API 對接整合 (slim 3, eloquent 5)",
+        "整合系統管理界面 (vue 2, nuxt 2, vuetify)",
+        "開發環境使用 docker; 部署到 VM"
+      ]
+    },
+    {
       "company": "新裕豐文化事業",
       "position": "PHP Programmer",
       "website": "http://www.syf.com.tw",
       "startDate": "2016-08-29",
-      "endDate": "",
+      "endDate": "2017-08-31",
       "summary": "",
       "highlights": [
         "引入 CodeIgniter 3 framework，全站重構、優化暨靜態化除錯",
         "結合各種新知，後端 API 與前端 Vue 雙向繫結實現新購物車開發",
         "以 pjax 實現良好體驗的搜尋功能",
-        "<a href='http://www.syf.com.tw/mass/便條紙-便利貼' target='_blank'>最新商品</a>全站架構與實現（後台 Excel 快速上架，拖曳上傳商品圖片，自動生成 xml 格式 sitemap，採用中文網址等）",
-        "後台商品維護相關功能：批次指定類目跟隨特定商品牌價、匯出商品資料為 Excel 檔案",
-        "於測試機架設 Gogs 提供公司做版本控制，嘗試推廣版本控制"
+        "最新商品全站架構與實現（後台 Excel 快速上架，拖曳上船商品圖，自動生成 xml 格式 sitemap，採用中文網址等）",
+        "後台商品維護相關功能：批次指定類目跟隨特定商品牌價、匯出商品資料成 Excel 檔案",
+        "於測試機架設 Gogs 提供公司做版本控制"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "Mobile Open Platform Conference",
+      "position": "PHP backend",
+      "website": "https://mopcon.org/2018/",
+      "startDate": "2018-05-01",
+      "endDate": "2012-11-04",
+      "summary": "官網後端協助；年會攤位工作人員",
+      "highlights": [""]
+    },
     {
       "organization": "Third IEEE International Conference on Smart Grid Communications",
       "position": "Guide",
@@ -53,9 +78,7 @@
       "startDate": "2012-11-05",
       "endDate": "2012-11-08",
       "summary": "Guide researchers and participants from all over the country to the auditorium.",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "organization": "國立臺北教育大學數學暨資訊教育學系系學會",
@@ -63,38 +86,6 @@
       "startDate": "2010-08-01",
       "endDate": "2011-07-31",
       "summary": "與系學會各股協作，並與股員共同宣傳系學會主辦之活動等相關事宜。"
-    },
-    {
-      "organization": "2011 遠哲數學發現之旅",
-      "position": "",
-      "startDate": "2011-07",
-      "endDate": "2011-07"
-    },
-    {
-      "organization": "2010 遠哲阿基米得數學營",
-      "position": "",
-      "startDate": "2010-07",
-      "endDate": "2010-07"
-    },
-    {
-      "organization": "金夏消數數學益智成長營",
-      "position": "實習導師",
-      "startDate": "2010-06-27",
-      "endDate": "2010-07-03",
-      "summary": "於金門縣正義國小"
-    },
-    {
-      "organization": "2010 遠哲科學小飛俠",
-      "position": "",
-      "startDate": "2010-01",
-      "endDate": "2010-01"
-    },
-    {
-      "organization": "心有所數數學益智成長營",
-      "position": "實習導師",
-      "startDate": "2009-07-05",
-      "endDate": "2009-07-11",
-      "summary": "於臺北縣秀朗國小"
     }
   ],
   "education": [
@@ -105,8 +96,7 @@
       "startDate": "2012-08-01",
       "endDate": "2016-07-31",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "國立臺北教育大學",
@@ -115,8 +105,7 @@
       "startDate": "2008-08-01",
       "endDate": "2012-07-31",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "國立鳳山高中",
@@ -125,9 +114,8 @@
       "startDate": "2006-08-01",
       "endDate": "2008-07-31",
       "gpa": "",
-      "courses": [
-      ]
-    }    
+      "courses": []
+    }
   ],
   "awards": [
     {
@@ -154,7 +142,9 @@
         "HTML",
         "Bootstrap",
         "Javascript/JQuery",
-        "VueJS"
+        "Vue 2",
+        "Nuxt 2",
+        "npm"
       ]
     },
     {
@@ -162,19 +152,22 @@
       "level": "Frequent - Proficient",
       "keywords": [
         "PHP",
-        "CodeIgniter",
-        "Laravel"
+        "CodeIgniter 3",
+        "Slim 3",
+        "Laravel 5",
+        "composer",
+        "nginx",
+        "docker",
+        "LNMP",
+        "MySQL/MariaDB",
+        "postgreSQL",
+        "redis"
       ]
     },
     {
       "name": "General Knowledge",
-      "level": "Frequent",
-      "keywords": [
-        "Git",
-        "Linux",
-        "Markdown",
-        "Gitbook"
-      ]
+      "level": "Frequent - Proficient",
+      "keywords": ["Git", "Linux", "Markdown", "Bash"]
     }
   ],
   "languages": [
@@ -194,37 +187,19 @@
   "interests": [
     {
       "name": "Programming",
-      "keywords": [
-        "Script and Task"
-      ]
+      "keywords": ["Hello, World!"]
     },
     {
       "name": "Sports",
-      "keywords": [
-        "Bike Riding",
-        "Jogging"
-      ]
+      "keywords": ["Bike Riding", "Jogging"]
     },
     {
       "name": "Games",
-      "keywords": [
-        "RPG",
-        "MMORPG",
-        "DOTA"
-      ]
+      "keywords": ["RPG", "MMORPG", "DOTA"]
     },
     {
       "name": "Others",
-      "keywords": [
-        "Music",
-        "Anime"
-      ]
-    }
-  ],
-  "-references": [
-    {
-      "name": "",
-      "reference": ""
+      "keywords": ["Music", "Anime"]
     }
   ]
 }
