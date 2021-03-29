@@ -2,11 +2,11 @@
   "basics": {
     "name": "Webb Lu",
     "label": "PHP Programmer",
-    "picture": "https://avatars1.githubusercontent.com/u/21689326?v=4&s=460",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHXhKaUesNjMg/profile-displayphoto-shrink_800_800/0/1517850457013?e=1622678400&v=beta&t=5uNWhnny74Vd7Dvb697P1o86CUlL3KeVO7nqQyuDYr8",
     "email": "u.master.o.twn@gmail.com",
     "phone": "",
     "website": "https://uwaylu.github.io/blog",
-    "summary": "高雄人，碼農。\n\n大學時研究過 PHP 爬蟲，獲取手機論壇的討論文章；\n碩班期間以 matlab 協作模擬 LTE-A 網路的資源分配；\n\n2016 年 8 月時任職於新裕豐文化事業，工作範圍涉及後端的 PHP 到前端的 Javascript；\n隨著時間推移接觸了各種技術後，越期盼能夠團隊式的開發並進行討論、互相砥礪，\n工作環境中能夠在同領域互相交流。\n\n閒暇時，2017 上半年目標是「建立個人部落格，分享 Evernote 筆記」，\n期間在 OpenShift 上架設了 wordpress、\n摸索了 Laravel, Vuejs 與 axios（基於 promise 的 ajax libs）等各種新知，\n最後情定 github.io 與 jekyll 靜態部落格生成器。\n\nAFK 時喜歡與好友喝飲料談天，或騎單車四處走走；\n17 年 2 月完成了高雄-墾丁百里騎乘，7 月完成了左營單車挑戰百里。\n\n18-19 年習慣於舒適圈，慶幸部落格還是在 20 年基於 vuepress 上到 github。\n半年目標是慢慢整理 Notion 上的筆記，發布到部落格。",
+    "summary": "高雄人，PHP工程師。\n\n大學時使用PHP爬蟲，獲取手機論壇的討論文章；\n碩班期間以Matlab協作模擬LTE-A網路的資源分配；\n\n服務於新裕豐文化時，開發官網客製化商品平台；\n接觸了各種技術後，期盼能到較大的圈子參與團隊式的開發來討論、互相砥礪，\n工作環境中能夠在同領域互相交流。\n\n服務於聚泰網路時，協同開發行銷平台與設計金服系統，\n能協助同事處理開發上的問題，並與前端工程師合作良好。\n\n閒暇時，在家探索各種新奇及應用，如在OpenShift上架wordpress、Laravel+Vuejs串接印象筆記API、Discord訂閱RSS資訊等。\n2017年2月完成了高雄-墾丁百里騎乘，童年7月完成了左營單車挑戰百里。\n2020年將終於基於vuepress的部落格上到github，規劃整理工作時的筆記，慢慢發布到部落格。\n\n有感於自身在學習上過於依賴Google到的網路文章，缺乏系統性的學習，\n2021年重新探索自我中，嘗試多方管道吸收新知，實踐發布到部落格。",
     "location": {
       "city": "Kaohsiung",
       "countryCode": "Taiwan",
@@ -33,15 +33,14 @@
   "work": [
     {
       "company": "聚泰網路科技",
-      "position": "PHP Programmer",
-      "website": "https://jutainet.com",
+      "position": "Software Engineer",
+      "website": "https://www.jutainet.com",
       "startDate": "2017-09-01",
       "endDate": "2020-08-31",
       "summary": "配合專案管理者協作完成需求，並撰寫文件",
       "highlights": [
-        "API 對接整合 (slim 3, eloquent 5)",
-        "整合系統管理界面 (vue 2, nuxt 2, vuetify)",
-        "開發環境使用 docker; 部署到 VM"
+        "開發金服系統，支援銀行卡、第三方支付、虛擬貨幣等多種支付方式",
+        "配合行銷平台開發，並整合第三方支付儲值流程"
       ]
     },
     {
@@ -52,12 +51,12 @@
       "endDate": "2017-08-31",
       "summary": "",
       "highlights": [
-        "引入 CodeIgniter 3 framework，全站重構、優化暨靜態化除錯",
-        "結合各種新知，後端 API 與前端 Vue 雙向繫結實現新購物車開發",
-        "以 pjax 實現良好體驗的搜尋功能",
-        "最新商品全站架構與實現（後台 Excel 快速上架，拖曳上船商品圖，自動生成 xml 格式 sitemap，採用中文網址等）",
-        "後台商品維護相關功能：批次指定類目跟隨特定商品牌價、匯出商品資料成 Excel 檔案",
-        "於測試機架設 Gogs 提供公司做版本控制"
+        "引入CodeIgniter3框架，全站重構、優化及修正頁面靜態化。",
+        "引入Vue2開發新購物車",
+        "引入Git，以Gogs架設內部版控；使用Gitbook撰寫文件",
+        "以pjax實現良好體驗的搜尋功能",
+        "最新商品功能全站架構與實作（批次上架、拖曳上傳圖檔、自動生成sitemap、採用中文網址等）",
+        "後台商品維護機制實作（批次指定類目跟隨特定商品牌價、商品資料匯出excel等）"
       ]
     }
   ],
@@ -136,14 +135,7 @@
     {
       "name": "Frontend Development",
       "level": "Frequent - Proficient",
-      "keywords": [
-        "HTML",
-        "Bootstrap",
-        "Javascript/JQuery",
-        "Vue 2",
-        "Nuxt 2",
-        "npm"
-      ]
+      "keywords": ["HTML", "Bootstrap", "Javascript/JQuery", "Vue 2", "Nuxt 2"]
     },
     {
       "name": "Backend Development",
@@ -153,7 +145,6 @@
         "CodeIgniter 3",
         "Slim 3",
         "Laravel 5",
-        "composer",
         "nginx",
         "docker",
         "LNMP",
@@ -184,20 +175,8 @@
   ],
   "interests": [
     {
-      "name": "Programming",
-      "keywords": ["Hello, World!"]
-    },
-    {
-      "name": "Sports",
-      "keywords": ["Bike Riding", "Jogging"]
-    },
-    {
-      "name": "Games",
-      "keywords": ["RPG", "MMORPG", "DOTA"]
-    },
-    {
       "name": "Others",
-      "keywords": ["Music", "Anime"]
+      "keywords": ["Music", "Anime", "Reading"]
     }
   ]
 }
