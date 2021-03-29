@@ -5,7 +5,7 @@
     "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQHXhKaUesNjMg/profile-displayphoto-shrink_800_800/0/1517850457013?e=1622678400&v=beta&t=5uNWhnny74Vd7Dvb697P1o86CUlL3KeVO7nqQyuDYr8",
     "email": "u.master.o.twn@gmail.com",
     "phone": "",
-    "website": "https://uwaylu.github.io/blog",
+    "website": "https://uwaylu.github.io",
     "summary": "高雄人，PHP工程師。\n\n大學時使用PHP爬蟲，獲取手機論壇的討論文章；\n碩班期間以Matlab協作模擬LTE-A網路的資源分配；\n\n服務於新裕豐文化時，開發官網客製化商品平台；\n接觸了各種技術後，期盼能到較大的圈子參與團隊式的開發來討論、互相砥礪，\n工作環境中能夠在同領域互相交流。\n\n服務於聚泰網路時，協同開發行銷平台與設計金服系統，\n能協助同事處理開發上的問題，並與前端工程師合作良好。\n\n閒暇時，在家探索各種新奇及應用，如在OpenShift上架wordpress、Laravel+Vuejs串接印象筆記API、Discord訂閱RSS資訊等。\n2017年2月完成了高雄-墾丁百里騎乘，童年7月完成了左營單車挑戰百里。\n2020年將終於基於vuepress的部落格上到github，規劃整理工作時的筆記，慢慢發布到部落格。\n\n有感於自身在學習上過於依賴Google到的網路文章，缺乏系統性的學習，\n2021年重新探索自我中，嘗試多方管道吸收新知，實踐發布到部落格。",
     "location": {
       "city": "Kaohsiung",
@@ -19,7 +19,7 @@
         "url": "https://www.linkedin.com/in/webb-lu/"
       },
       {
-        "network": "Blog",
+        "network": "Blogger",
         "username": "uwaylu",
         "url": "https://uwaylu.github.io/blog"
       },
