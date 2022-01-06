@@ -1,0 +1,28 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Webb Lu's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "resume serve",
+    "publish": "resume export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uWayLu/Resume.git"
+  },
+  "keywords": [
+    "uwaylu",
+    "resume",
+    "jsonresume"
+  ],
+  "author": "uWay Lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uWayLu/Resume/issues"
+  },
+  "homepage": "https://github.com/uWayLu/Resume#readme",
+  "devDependencies": {
+    "resume-cli": "^3.0.5"
+  }
+}
