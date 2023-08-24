@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Webb Lu",
-    "label": "PHP Programmer",
+    "label": "Web Developer",
     "picture": "https://avatars.githubusercontent.com/u/21689326?s=460&u=3659405c346f21ac9c082fbf72c3d18626e1c4d0&v=4",
-    "email": "u.master.o.twn@gmail.com",
+    "email": "u.master.o.twn+resume@gmail.com",
     "phone": "",
     "website": "https://uwaylu.github.io",
-    "summary": "高雄人，PHP工程師。\n\n大學時使用PHP爬蟲，獲取手機論壇的討論文章；\n碩班期間以Matlab協作模擬LTE-A網路的資源分配；\n\n服務於新裕豐文化時，開發官網客製化商品平台；\n接觸了各種技術後，期盼能到較大的圈子參與團隊式的開發來討論、互相砥礪，\n工作環境中能夠在同領域互相交流。\n\n服務於聚泰網路時，協同開發行銷平台與設計金服系統，\n能協助同事處理開發上的問題，並與前端工程師合作良好。\n\n閒暇時，在家探索各種新奇及應用，如在OpenShift上架wordpress、Laravel+Vuejs串接印象筆記API、Discord訂閱RSS資訊等。\n2017年2月完成了高雄-墾丁百里騎乘，童年7月完成了左營單車挑戰百里。\n2020年將終於基於vuepress的部落格上到github，規劃整理工作時的筆記，慢慢發布到部落格。\n\n有感於自身在學習上過於依賴Google到的網路文章，缺乏系統性的學習，\n2021年重新探索自我中，嘗試多方管道吸收新知，實踐發布到部落格。",
+    "summary": "高雄人，Web 工程師。\n\n大學時使用 PHP 爬蟲，爬取手機論壇的討論文章；\n碩班期間以 Matlab 協作模擬 LTE-A 網路的資源分配；\n\n閒暇時習慣宅家活動，在家探索各種新奇及應用，如在 OpenShift 上架 wordpress、\nLaravel+Vuejs 串接印象筆記 API, Discord 訂閱 RSS 資訊等。\n2017 年 2 月完成了高雄-墾丁百里騎乘，同年 7 月完成了左營單車挑戰百里。\n有感於自身在學習上過於依賴 Google 到的網路文章，缺乏系統性的學習，\n2020 年將 vuepress 的部落格上到 github, 規劃整理工作時的筆記，\n慢慢發布到部落格作為個人知識庫。\n2021 年轉換工作重新探索自我，在 ProxmoxVE 上建置私有雲 NextCloud 與 OpenVpn 連通各個裝置；\n2023 年將主力 PC 半虛擬化但巢狀虛擬化議題而計畫中止；有感人生苦短，做一些原本不會做但想嘗試的事，換一份更理想的工作。期望下一份工作環境能有 docker, cleanCode, OOP, CI/CD 與套件化開發，能有同事在開發上互相砥礪。",
     "location": {
       "city": "Kaohsiung",
-      "countryCode": "Taiwan",
+      "countryCode": "TW",
       "region": ""
     },
     "profiles": [
@@ -32,6 +32,19 @@
   },
   "work": [
     {
+      "company": "易勝資訊",
+      "position": "Development Engineer",
+      "website": "https://www.essences.com.tw",
+      "startDate": "2021-06-28",
+      "endDate": "",
+      "summary": "資策會駐點；配合專案管理者協作完成需求",
+      "highlights": [
+        "套裝|客製軟體銷售前後台功能開發",
+        "開標系統前後台功能開發",
+        "招標系統api開發；客戶端功能開發"
+      ]
+    },
+    {
       "company": "聚泰網路科技",
       "position": "Software Engineer",
       "website": "https://www.jutainet.com",
@@ -39,7 +52,8 @@
       "endDate": "2020-08-31",
       "summary": "配合專案管理者協作完成需求，並撰寫文件",
       "highlights": [
-        "開發金服系統，支援銀行卡、第三方支付、虛擬貨幣等多種支付方式",
+        "協助自動化測試程式除錯",
+        "協同開發金服系統，支援銀行卡、第三方支付、虛擬貨幣等多種支付方式",
         "配合行銷平台開發，並整合第三方支付儲值流程"
       ]
     },
@@ -49,13 +63,13 @@
       "website": "http://www.syf.com.tw",
       "startDate": "2016-08-29",
       "endDate": "2017-08-31",
-      "summary": "",
+      "summary": "官網與重構暨客製化商品平台開發",
       "highlights": [
         "引入CodeIgniter3框架，全站重構、優化及修正頁面靜態化。",
         "引入Vue2開發新購物車",
         "引入Git，以Gogs架設內部版控；使用Gitbook撰寫文件",
         "以pjax實現良好體驗的搜尋功能",
-        "最新商品功能全站架構與實作（批次上架、拖曳上傳圖檔、自動生成sitemap、採用中文網址等）",
+        "最新商品全站功能（批次上架、拖曳上傳圖檔、自動生成sitemap、採用中文網址等）",
         "後台商品維護機制實作（批次指定類目跟隨特定商品牌價、商品資料匯出excel等）"
       ]
     }
@@ -114,14 +128,7 @@
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "第五屆全國大專校院資安技能金盾潛力無窮獎",
-      "date": "2010-12-10",
-      "awarder": "資策會",
-      "summary": "隊名：「不要抓我拜託」"
-    }
-  ],
+  "awards": [],
   "publications": [
     {
       "name": "Uplink Scheduling and Power Allocation for M2M Communications in SC-FDMA-Based LTE-A Networks With QoS Guarantees",
@@ -134,29 +141,23 @@
   "skills": [
     {
       "name": "Frontend Development",
-      "level": "Frequent - Proficient",
+      "level": "Frequent - Familiar",
       "keywords": ["HTML", "Bootstrap", "Javascript/JQuery", "Vue 2", "Nuxt 2"]
     },
     {
       "name": "Backend Development",
       "level": "Frequent - Proficient",
       "keywords": [
-        "PHP",
+        "PHP 5|7",
         "CodeIgniter 3",
         "Slim 3",
-        "Laravel 5",
-        "nginx",
-        "docker",
-        "LNMP",
-        "MySQL/MariaDB",
-        "postgreSQL",
-        "redis"
+        "Laravel 5|7"
       ]
     },
     {
       "name": "General Knowledge",
-      "level": "Frequent - Proficient",
-      "keywords": ["Git", "Linux", "Markdown", "Bash"]
+      "level": "Frequent - Familiar",
+      "keywords": ["Git", "Linux", "Markdown", "Bash", "LNMP", "docker", "MySQL/MariaDB", "postgreSQL", "redis", "nw.js"]
     }
   ],
   "languages": [
@@ -175,8 +176,20 @@
   ],
   "interests": [
     {
+      "name": "Games",
+      "keywords": ["World of Warships", "Warcraft III"]
+    },
+    {
+      "name": "Mobile Games",
+      "keywords": ["アズールレーン", "Fate/Grand Order", "Heaven Burns Red"]
+    },
+    {
+      "name": "VR Games",
+      "keywords": ["Beat Saber", "Eleven Table Tennis"]
+    },
+    {
       "name": "Others",
-      "keywords": ["Music", "Anime", "Reading"]
+      "keywords": ["Music", "Anime", "DIY Electronics"]
     }
   ]
 }
