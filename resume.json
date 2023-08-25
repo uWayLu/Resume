@@ -6,7 +6,7 @@
     "email": "u.master.o.twn+resume@gmail.com",
     "phone": "",
     "website": "https://uwaylu.github.io",
-    "summary": "高雄人，Web 工程師。\n\n大學時使用 PHP 爬蟲，爬取手機論壇的討論文章；\n碩班期間以 Matlab 協作模擬 LTE-A 網路的資源分配；\n\n閒暇時習慣宅家活動，在家探索各種新奇及應用，如在 OpenShift 上架 wordpress、\nLaravel+Vuejs 串接印象筆記 API, Discord 訂閱 RSS 資訊等。\n2017 年 2 月完成了高雄-墾丁百里騎乘，同年 7 月完成了左營單車挑戰百里。\n有感於自身在學習上過於依賴 Google 到的網路文章，缺乏系統性的學習，\n2020 年將 vuepress 的部落格上到 github, 規劃整理工作時的筆記，\n慢慢發布到部落格作為個人知識庫。\n2021 年轉換工作重新探索自我，在 ProxmoxVE 上建置私有雲 NextCloud 與 OpenVpn 連通各個裝置；\n2023 年將主力 PC 半虛擬化但巢狀虛擬化議題而計畫中止；有感人生苦短，做一些原本不會做但想嘗試的事，換一份更理想的工作。期望下一份工作環境能有 docker, cleanCode, OOP, CI/CD 與套件化開發，能有同事在開發上互相砥礪。",
+    "summary": "高雄人，Web 工程師。\n\n大學時使用 PHP 爬蟲，爬取手機論壇的討論文章；\n碩班期間以 Matlab 協作模擬 LTE-A 網路的資源分配；\n\n閒暇時習慣宅家活動，在家探索各種新奇及應用，如在 OpenShift 上架 wordpress、\nLaravel+Vuejs 串接印象筆記 API, Discord 訂閱 RSS 資訊等。\n2017 年 2 月完成了高雄-墾丁百里騎乘，同年 7 月完成了左營單車挑戰百里。\n有感於自身在學習上過於依賴 Google 到的網路文章，缺乏系統性的學習，\n2020 年將 vuepress 的部落格上到 github, 規劃整理工作時的筆記，\n慢慢發布到部落格作為個人知識庫。\n2021 年轉換工作重新探索自我，在第二台機器 ProxmoxVE 上建置私有雲 NextCloud, \n及 OpenVpn 連通各個裝置；\n2023 年將主力 PC 半虛擬化但巢狀虛擬化議題而計畫中止；\n\n期望下一份工作環境能有 docker, cleanCode, OOP, CI/CD 與套件化開發，\n能有同事在開發上互相砥礪。",
     "location": {
       "city": "Kaohsiung",
       "countryCode": "TW",
@@ -36,7 +36,6 @@
       "position": "Development Engineer",
       "website": "https://www.essences.com.tw",
       "startDate": "2021-06-28",
-      "endDate": "",
       "summary": "資策會駐點；配合專案管理者協作完成需求",
       "highlights": [
         "套裝|客製軟體銷售前後台功能開發",
