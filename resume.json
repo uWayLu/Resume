@@ -51,7 +51,7 @@
       "endDate": "2020-08-31",
       "summary": "配合專案管理者協作完成需求，並撰寫文件",
       "highlights": [
-        "協助自動化測試程式除錯",
+        "協助自動化測試程式開發與除錯",
         "協同開發金服系統，支援銀行卡、第三方支付、虛擬貨幣等多種支付方式",
         "配合行銷平台開發，並整合第三方支付儲值流程"
       ]
@@ -149,6 +149,7 @@
       "keywords": [
         "PHP 5|7",
         "CodeIgniter 3",
+        "Codeception",
         "Slim 3",
         "Laravel 5|7"
       ]
@@ -175,20 +176,12 @@
   ],
   "interests": [
     {
-      "name": "Games",
-      "keywords": ["World of Warships", "Warcraft III"]
-    },
-    {
-      "name": "Mobile Games",
-      "keywords": ["アズールレーン", "Fate/Grand Order", "Heaven Burns Red"]
-    },
-    {
       "name": "VR Games",
       "keywords": ["Beat Saber", "Eleven Table Tennis"]
     },
     {
       "name": "Others",
-      "keywords": ["Music", "Anime", "DIY Electronics"]
+      "keywords": ["Music", "Anime", "Games", "DIY Electronics"]
     }
   ]
 }
